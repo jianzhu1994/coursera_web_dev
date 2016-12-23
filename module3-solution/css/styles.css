@@ -1,0 +1,70 @@
+/** HEADER **/
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 15px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: Verdana;
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#nav-list {
+  background-color: lightgrey;
+  font-family: Verdana;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  padding: 0px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#nav-list hr {
+  border-width: 3px;
+  margin: 0px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* END HEADER */
+h2 {
+  font-family: Verdana;
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+
+p {
+  background-color: grey;
+  color: black;
+  margin: 0;
+}
+#p1 {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+#p2 {
+  padding: 0 10px 10px 10px;
+  margin-bottom: 30px;
+}
